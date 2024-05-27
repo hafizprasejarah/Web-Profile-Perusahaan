@@ -1,0 +1,3 @@
+username : admin
+email : babibubabbabibubab@gmail.com
+password : adminadmin
